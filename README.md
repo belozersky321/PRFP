@@ -1,2 +1,2 @@
-# PRQP
-Phylogenetic Reconstruction Quality Prediction 
+# PRFP
+Phylogenetic Reconstruction Fidelity Prediction 
